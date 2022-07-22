@@ -1,9 +1,1 @@
 O arquivo txt nomeado como "grafo" sera o arquivo a ser lido pelo programa
-
-
-
-Vinicius Santos de Sousa
-rgm: 23505699
-
-Davi Ribeiro Barbosa
-rgm: 23505621
